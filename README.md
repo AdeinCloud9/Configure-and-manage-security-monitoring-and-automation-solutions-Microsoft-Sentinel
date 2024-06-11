@@ -1,5 +1,4 @@
 # Configure-and-manage-security-monitoring-and-automation-solutions-Microsoft-Sentinel
-# Microsoft Sentinel Lab
 
 This repository contains the steps and resources for implementing Microsoft Sentinel as part of my lab exercise.
 
@@ -61,7 +60,3 @@ This repository contains the steps and resources for implementing Microsoft Sent
 ### Task 6: Invoke an Incident and Review the Associated Actions
 1. I navigated to `Microsoft Defender for Cloud` and deleted a Just-in-time VM access policy.
 2. I verified that the incident appeared in Microsoft Sentinel.
-
-![Incident Dashboard](images/incident_dashboard.png)
-
-
