@@ -23,8 +23,6 @@ This repository contains the steps and resources for implementing Microsoft Sent
 
 # Microsoft Sentinel Lab Instructions
 
-## Exercise 1: Implement Microsoft Sentinel
-
 ### Task 1: On-board Microsoft Sentinel
 1. I signed in to the Azure portal at [https://portal.azure.com](https://portal.azure.com).
 2. In the search box, I typed `Microsoft Sentinel` and pressed Enter.
